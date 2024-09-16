@@ -1,0 +1,15 @@
+{
+	"data" : [{
+			"location" : "New Mexico",
+			"condition" : "Hot as Hell",
+			"temperature" : 88,
+			"temperatureMin" : 71,
+			"temperatureMax" : 99,
+			"humidity" : 45,
+			"windDirection" : 24,
+			"pressureSeaLevel" : 23,
+			"visibility" : 22,
+			"windSpeed" : 21
+		}
+	]
+}

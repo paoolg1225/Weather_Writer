@@ -1,0 +1,48 @@
+{
+	"data" : [{
+			"location" : "Chicago",
+			"condition" : "Windy",
+			"temperature" : 40,
+			"temperatureMin" : 35,
+			"temperatureMax" : 45,
+			"humidity" : 30,
+			"windDirection" : 110,
+			"pressureSeaLevel" : 30,
+			"visibility" : 17,
+			"windSpeed" : 30
+		}, {
+			"location" : "Los Angeles",
+			"condition" : "Sunny",
+			"temperature" : 68,
+			"temperatureMin" : 54,
+			"temperatureMax" : 72,
+			"humidity" : 35,
+			"windDirection" : 270,
+			"pressureSeaLevel" : 29,
+			"visibility" : 88,
+			"windSpeed" : 8
+		}, {
+			"location" : "New Mexico",
+			"condition" : "Hot as Hell",
+			"temperature" : 88,
+			"temperatureMin" : 71,
+			"temperatureMax" : 99,
+			"humidity" : 45,
+			"windDirection" : 24,
+			"pressureSeaLevel" : 23,
+			"visibility" : 22,
+			"windSpeed" : 21
+		}, {
+			"location" : "San Diego",
+			"condition" : "Sunny",
+			"temperature" : 88,
+			"temperatureMin" : 75,
+			"temperatureMax" : 95,
+			"humidity" : 45,
+			"windDirection" : 34,
+			"pressureSeaLevel" : 23,
+			"visibility" : 23,
+			"windSpeed" : 12
+		}
+	]
+}
